@@ -1,2 +1,2 @@
 # kiru
-education purpose
+education
